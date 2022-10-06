@@ -1,11 +1,26 @@
 import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+import url('http://fonts.cdnfonts.com/css/grotesque');
 
 * {
 
 }
 
 * {
-    margin-left: 15px;
-    font-family: 'Poppins';
+    margin-left: 2%;
+    margin-right: 4%;
+    font-family: 'Grotesque', sans-serif;
 }
 
+h1 { font-weight: normal; }
+h3 { font-weight: normal; }
+.Subheadline { font-weight: 200; }
+.basic_description {
+        font-weight: 200;
+        font-size: 1.0em;
+        }
+
+p {
+    line-height: 1.5em;
+    font-size: 1.15em;
+    font-weight: 200;
+}
